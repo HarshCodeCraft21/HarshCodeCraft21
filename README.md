@@ -1,4 +1,4 @@
-<img align="right" alt="Coding gif Image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding gif Image" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <div>
