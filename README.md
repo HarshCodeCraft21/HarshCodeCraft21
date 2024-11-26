@@ -1,8 +1,7 @@
-<img align="right" alt="Coding gif Image" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<div>
-<pre align ="left">
+
+<p align ="center">
 I am a Highly motivated and technically skilled Web developer with a
 strong foundation in web development and a keen interest in building
 robust and scalable applications.As a recent graduate in computer
@@ -12,8 +11,11 @@ technologies and developing dynamic web application using the
 rator)
 Also i have solid understanding of front-end development principles,
 including #HTML5 #CSS3 #Javascript.
-</pre>  
-</div>  
+</p>  
+ 
+<img align="right" alt="Coding gif Image" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
+<img align="center" alt="Coding gif Image" width="580" src="https://miro.medium.com/v2/resize:fit:3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshcodecraft21&label=Profile%20views&color=0e75b6&style=flat" alt="harshcodecraft21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshcodecraft21" alt="harshcodecraft21" /></a> </p>
