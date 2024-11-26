@@ -13,17 +13,14 @@ Also i have solid understanding of front-end development principles,
 including #HTML5 #CSS3 #Javascript.
 </p>  
 <img align="right" alt="Coding gif Image" width="480" src="https://miro.medium.com/v2/resize:fit:3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif">
- <h3 align="center">Why Choose Me?</h3>
- <div>
-  <pre align="center">
-  I am quick learner with problem-solving mindset,always
-  seeking opportunities to expand my skill set and stay updated
-  with the latest industry trends.If you are looking for a dedicated
-  and enhausiastic web developer to join Your team, I would
-  love to connect and discuss potential opportunities.
- </pre>
- <img align="right" alt="Coding gif Image" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- </div>
+ <h3 align="left">Why Choose Me?</h3>
+ <ul>
+  <li>I am a Quick Learner.</li>
+  <li>Problem Solving Mindset.</li>
+  <li>Always Seeking Opportunities to Expand my Skills.</li>
+ </ul>
+ <img align="center" alt="Coding gif Image" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshcodecraft21&label=Profile%20views&color=0e75b6&style=flat" alt="harshcodecraft21" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshcodecraft21" alt="harshcodecraft21" /></a> </p>
