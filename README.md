@@ -36,7 +36,7 @@ including #HTML5 #CSS3 #Javascript.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-jain-4672422a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-jain-4672422a6" height="30" width="40" /></a>
-<a href="https://instagram.com/harshjain__21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshjain__21" height="30" width="40" /></a>
+<a href="https://instagram.com/iam.harshjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshjain__21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
