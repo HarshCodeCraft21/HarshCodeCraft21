@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/HarshCodeCraft21">
     <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&size=48&pause=1000&color=175069&center=true&vCenter=true&repeat=false&width=435&lines=Harsh+Jain" alt="Typing SVG" />
   </a>
 </p>
